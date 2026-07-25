@@ -1,6 +1,8 @@
 ## Hi there :owl:
 
-I'm Mahsa, a full stack developer interested in Web Developement, Data Science and Machine Learning
+I'm Mahsa, a Computer Engineering graduate passionate about web development, interactive user experiences, and continuous learning.
+
+Currently exploring Python, Data Science, and Machine Learning while strengthening my front-end development skills.
 
 - :woman_juggling: I’m currently working on refreshing my Front-end skills through the Odin Project while expanding my Python knowledge for Data Science and Machine Learning.
   
