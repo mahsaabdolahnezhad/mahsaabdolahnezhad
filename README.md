@@ -10,7 +10,7 @@ I'm Mahsa, a full stack developer interested in Web Developement, Data Science a
    - Machine Learning 
    - TypeScript
   
-- :computer: I’m looking to collaborate on beginner Data Science projects and full stack projects, and open-source projects.
+- :computer: I’m Looking to collaborate on beginner-friendly Data Science, React, and open-source projects.
 
 <!--
 **mahsaabdolahnezhad/mahsaabdolahnezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
