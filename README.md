@@ -1,8 +1,8 @@
-## Hi there :EMOJICODE::owl:
+## Hi there :owl:
 
 I'm Mahsa, a full stack developer interested in Web Developement Data Science.
 
--  I’m currently working on ...
+- :woman_juggling: I’m currently working on refreshing my Front-end skills through the Odin pROJECT
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 
