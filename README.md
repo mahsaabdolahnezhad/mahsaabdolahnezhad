@@ -5,7 +5,7 @@ I'm Mahsa, a full stack developer interested in Web Developement, Data Science a
 - :woman_juggling: I’m currently working on refreshing my Front-end skills through the Odin Project while expanding my Python knowledge for Data Science and Machine Learning.
   
 - :book: I’m currently learning
-    -Python 
+- Python
    - Data Science 
    - Machine Learning 
    - TypeScript
