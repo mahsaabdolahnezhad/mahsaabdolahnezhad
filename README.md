@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there :owl:<br><br>I'm Mahsa, a Computer Engineering graduate passionate about web development, interactive user experiences, and continuous learning.<br><br>Currently exploring Python, Data Science, and Machine Learning while strengthening my front-end development skills.<br><br>- :woman_juggling: I’m currently working on refreshing my Front-end skills through the Odin Project while expanding my Python knowledge for Data Science and Machine Learning.<br>  <br>- :book: I’m currently learning<br>   - Python<br>   - Data Science <br>   - Machine Learning <br>   - TypeScript<br>  <br>- :computer: I’m Looking to collaborate on beginner-friendly Data Science, React, and open-source projects.<br><br><!--<br>**mahsaabdolahnezhad/mahsaabdolahnezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br>--><br>
+Hi there :owl:<br><br>I'm Mahsa, a Computer Engineering graduate passionate about web development, interactive user experiences, and continuous learning.<br><br>Currently exploring Python, Data Science, and Machine Learning while strengthening my front-end development skills.<br><br>- :woman_juggling: I’m currently working on refreshing my Front-end skills through the Odin Project while expanding my Python knowledge for Data Science and Machine Learning.<br>  <br>- :book: I’m currently learning<br>   - Python<br>   - Data Science <br>   - Machine Learning <br>   - TypeScript<br>  <br>- :computer: I’m Looking to collaborate on beginner-friendly Data Science, React, and open-source projects.<br><br><!--<br>**mahsaabdolahnezhad/mahsaabdolahnezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br>--><br>
 
 
 ## 🌐 Socials:
@@ -14,8 +14,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahsaabdolahnezhad&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=mahsaabdolahnezhad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
